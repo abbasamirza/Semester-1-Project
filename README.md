@@ -1,4 +1,4 @@
------------------------ ATM ------------------------\
+[center]----------------------- ATM ------------------------[/center]\
 THIS IS A PRE-DEVELOPLMENT FLOW/DESIGN OF THE ATM PROJECT\
 ------------------- BEFORE LOGIN -------------------
 1. Ask user to login/register
