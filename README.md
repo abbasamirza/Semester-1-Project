@@ -1,6 +1,6 @@
 ----------------------- ATM ------------------------\
 THIS IS A PRE-DEVELOPLMENT FLOW/DESIGN OF THE ATM PROJECT\
-------------------- BEFORE LOGIN -------------------\
+------------------- BEFORE LOGIN -------------------
 1. Ask user to login/register
 2. If user registers:
     - Get NIC Number
