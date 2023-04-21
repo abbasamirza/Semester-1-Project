@@ -1,6 +1,6 @@
 ----------------------- ATM ------------------------\
-THIS IS A PRE-DEVELOPLMENT FLOW/DESIGN OF THE ATM PROJECT
-------------------- BEFORE LOGIN -------------------
+THIS IS A PRE-DEVELOPLMENT FLOW/DESIGN OF THE ATM PROJECT\
+------------------- BEFORE LOGIN -------------------\
 1. Ask user to login/register
 2. If user registers:
     - Get NIC Number
@@ -22,7 +22,7 @@ THIS IS A PRE-DEVELOPLMENT FLOW/DESIGN OF THE ATM PROJECT
         • Continue to pin code screen
     - If account doesnot exist:
         • Show invalid login message and ask to re login
-------------------- AFTER LOGIN -------------------
+------------------- AFTER LOGIN -------------------\
 4. Ask for PIN code
     - If pin code incorrect:
         • Reprompt for pin code input
