@@ -21,8 +21,8 @@ THIS IS A PRE-DEVELOPLMENT FLOW/DESIGN OF THE ATM PROJECT\
     - If account exists:
         • Continue to pin code screen
     - If account doesnot exist:
-        • Show invalid login message and ask to re login
-------------------- AFTER LOGIN -------------------\
+        • Show invalid login message and ask to re login\
+------------------- AFTER LOGIN -------------------
 4. Ask for PIN code
     - If pin code incorrect:
         • Reprompt for pin code input
@@ -54,5 +54,5 @@ THIS IS A PRE-DEVELOPLMENT FLOW/DESIGN OF THE ATM PROJECT\
         • Display balance
     - Delete account
         • PIN confirmation
-6. Display a thankyou message
+6. Display a thankyou message\
 ----------------------- ATM ------------------------
